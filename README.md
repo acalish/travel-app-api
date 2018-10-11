@@ -79,7 +79,7 @@ All trips CRUD requests must include a header "Authorization: Token token=${TOKE
 
 * [Back-end repo](https://github.com/acalish/travel-app-api)
 * [Front-end repo](https://github.com/acalish/travel-app-client)
-* [Heroku deployment](https://floating-chamber-13025.herokuapp.com')
+* [Heroku deployment](https://floating-chamber-13025.herokuapp.com/)
 * [Front-end deployed](https://acalish.github.io/travel-app-client/)
 
 ## Built With
