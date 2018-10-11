@@ -80,7 +80,7 @@ All trips CRUD requests must include a header "Authorization: Token token=${TOKE
 Request:
 
 ```sh
-curl --include --request GET "https://floating-chamber-13025.herokuapp.com/"\
+curl --include --request GET "https://floating-chamber-13025.herokuapp.com/trips"\
   --header "Authorization: Token token=${TOKEN}"
 ```
 
