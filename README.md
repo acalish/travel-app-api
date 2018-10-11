@@ -17,13 +17,6 @@ My primary focus was to design a simple minimum viable product, and leave a lot 
 
 I began by making sure that I could perform CRUD actions on each resource through curl scripts, and then added the relationship between them.  Once I set up the relationship I again tested through curl that CRUD could still happen.  I also set up my app so that users can only see their own resources.
 
-#### User Stories
-As a user I want to sign up, sign in, change my password, sign out.
-As a registered user I want to create a new trip that has a destination, start and end dates, and a title (think Amanda’s Wedding or College Reunion).
-As a registered user I want to edit my trip.
-As a registered user I want to delete my trip.
-As a registered user I want to see all of my trips.
-
 
 #### Entity Relationship Diagrams
 [ERD](https://imgur.com/a/eBDXsdw)
