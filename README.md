@@ -20,6 +20,7 @@ I began by making sure that I could perform CRUD actions on each resource throug
 
 #### Entity Relationship Diagrams
 [ERD](https://imgur.com/a/eBDXsdw)
+![ERD](./public/travel_ERD.png)
 
 
 
